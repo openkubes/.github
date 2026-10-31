@@ -1,4 +1,4 @@
-<a href="https://openkubes.org/"><img src="https://raw.githubusercontent.com/openkubes/openkubes/main/docs/openkubes-logo.png" alt="OpenKubes logo" width="240"></a>
+<a href="https://openkubes.org/"><img src="https://raw.githubusercontent.com/openkubes/openkubes/main/website/assets/openkubes-header-logo.png" alt="OpenKubes logo" width="240"></a>
 
 # OpenKubes — Sovereign Platform Engineering
 
